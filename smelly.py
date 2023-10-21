@@ -2,6 +2,7 @@ from pos.order import Order
 from pos.system import POSSystem
 
 
+
 def main() -> None:
     # create the POS system and setup the payment processor
     system = POSSystem()
